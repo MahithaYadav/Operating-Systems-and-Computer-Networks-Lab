@@ -3,7 +3,6 @@ Laboratory Program
 
 #program file fcfs
 ![program_file](fcfs.c)
-![program_file](/assets/images/program_fcfs_5A2.png)
 ![program_file](program_fcfs_5A2.png)
 
 #sample input and tested input fcfs
