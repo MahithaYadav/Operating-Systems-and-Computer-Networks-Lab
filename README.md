@@ -2,7 +2,8 @@
 Laboratory Program
 
 #program files
-![program_file](Experiment-1a/fcfs.c)
+![program_file](fcfs.c)
+![program Screen Shot](Experiment-1a/program_fcfs_5A2.png)
 ![program_file](program_fcfs_5A2.png)
 
 #sample input and tested input
