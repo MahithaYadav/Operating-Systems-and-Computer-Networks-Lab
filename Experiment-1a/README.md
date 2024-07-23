@@ -7,4 +7,4 @@
 
 #sample output and tested output
 ![sample_output](OT_5A2.png)
-![tested_output](OT_5A2.png)
+![tested_output](Test_OT_5A2.png)
