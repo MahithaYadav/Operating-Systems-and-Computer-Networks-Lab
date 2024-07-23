@@ -1,27 +1,28 @@
 # Operating-Systems-and-Computer-Networks-Lab
 Laboratory Program
 
-#program files
-![program_file](fcfs.c)
-![program Screen Shot](Experiment-1a/program_fcfs_5A2.png)
-![program_file](program_fcfs_5A2.png)
+#FCFS program status
 
-#sample input and tested input
-![sample_input](IO_5A2.png)
-![tested_input](Test_IO_5A2.png)
+##program files fcfs
+![program_file](Experiment-1a/fcfs.c)
+![progra_file](Experiment-1a/program_fcfs_5A2.png)
 
-#sample output and tested output
-![sample_output](OT_5A2.png)
-![tested_output](Test_OT_5A2.png)
+##sample input and output fcfs
+![sample_input](Experiment-1a/IO_5A2.png)
+![sample_output](Experiment-1a/OT_5A2.png)
 
+##tested input and output fcfs
+![tested_input](Experiment-1a/Test_IO_5A2.png)
+![tested_output](Experiment-1a/Test_OT_5A2.png)
 
-#program file
-![program_file](sjf.c)
-![program_file](program_sjf_5A2.png)
-![program_file](program2_Sjf_5A2.png)
+#SJF program status
+##program file sjf
+![program_file](Experiment-1b/sjf.c)
+![program_file](Experiment-1b/program_sjf_5A2.png)
+![program_file](Experiment-1b/program2_Sjf_5A2.png)
 
-#sample input and output
-![sample](IO_5A2.png)
+##sample input and output sjf
+![sample](Experiment-1b/IO_5A2.png)
 
-#tested input and output
-![tested](Test_IO_5A2.png)
+##tested input and output sjf
+![tested](Experiment-1b/Test_IO_5A2.png)
