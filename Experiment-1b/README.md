@@ -7,4 +7,4 @@
 ![sample](IO_5A2.png)
 
 #tested input and output
-![sample](Test_IO_5A2.png)
+![tested](Test_IO_5A2.png)
