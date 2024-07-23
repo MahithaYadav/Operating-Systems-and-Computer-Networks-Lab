@@ -1,7 +1,7 @@
 # Operating-Systems-and-Computer-Networks-Lab
 Laboratory Program
 
-#program files fcfs
+#program file fcfs
 ![program_file](fcfs.c)
 ![program_file](program_fcfs_5A2.png)
 
