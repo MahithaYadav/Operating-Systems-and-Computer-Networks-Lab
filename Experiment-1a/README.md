@@ -1,4 +1,4 @@
-#program file
+#program files
 ![program_file](program_fcfs_5A2.png)
 ![program_file](fcfs.c)
 
