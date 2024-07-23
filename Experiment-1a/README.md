@@ -1,5 +1,5 @@
 #program file
-![Program file](program_fcfs_5A2.png)
+![Program file](program fcfs_5A2.png)
 
 #sample input
 ![sample_file_input](IO_5A2.png)
