@@ -44,10 +44,10 @@ Laboratory Program
 
 ##program files of priority
 ![program_file](Experiment_9d/priority.c)
-![program_file](Experiment_9d/program_5A2.p)
+![program_file](Experiment_9d/program_5A2.PNG)
 
 ##sample input and output of priority
-![sample_input](Experiment_9d/sample_IO_5A2.png)
+![sample_input](Experiment_9d/sample_IO_5A2.PNG)
 
 ##tested input and output of priority
-![tested_input](Experiment_9d/tested_IO_5A2.png)
+![tested_input](Experiment_9d/tested_IO_5A2.PNG)
