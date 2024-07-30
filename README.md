@@ -34,8 +34,20 @@ Laboratory Program
 ![program_file](Experiment_9c/Roundrobin.c)
 ![program_files](Experiment_9c/program_5A2.PNG)
 
-#sample input and output of RoundRobin
+##sample input and output of RoundRobin
 ![sample_input](Experiment_9c/sample_IO_5A2.PNG)
 
-#tested output and output of RoundRobin
+##tested output and output of RoundRobin
 ![tested_input](Experiment_9c/tested_IO_5A2.PNG)
+
+#Priority program status
+
+##program files of priority
+![program_file](Experiment_9d/priority.c)
+![program_file](Experiment_9d/program_5A2.p)
+
+##sample input and output of priority
+![sample_input](Experiment_9d/sample_IO_5A2.png)
+
+##tested input and output of priority
+![tested_input](Experiment_9d/tested_IO_5A2.png)
