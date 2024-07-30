@@ -27,3 +27,15 @@ Laboratory Program
 
 ##tested input and output of sjf
 ![tested](Experiment-1b/Test_IO_5A2.png)
+
+#RoundRobin program status
+
+##program files of RoundRobin 
+![program_file](Experiment_9c/Roundrobin.c)
+![program_files](Experiment_9c/program_5A2.PNG)
+
+#sample input and output of RoundRobin
+![sample_input](Experiment_9c/sample_IO_5A2.PNG)
+
+#tested output and output of RoundRobin
+![tested_input](Experiment_9c/tested_IO_5A2.PNG)
