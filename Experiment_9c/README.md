@@ -1,9 +1,9 @@
 #program files
 ![program_file](Roundrobin.c)
-![program_file](program_5A2.png)
+![program_files](program_5A2.PNG)
 
 #sample input 
-![sample_input](sample_IO_5A2.png)
+![sample_input](sample_IO_5A2.PNG)
 
 #tested output
-![tested_input](tested_IO_5A2.png)
+![tested_input](tested_IO_5A2.PNG)
