@@ -56,6 +56,7 @@ Laboratory Program
 
 ##program files of fifo
 ![program_file](Experiment_14/Experiment_14a/Program_fifo_5A2.PNG)
+![program_file](Experiment_14/Experiment_14a/fifo_program.c)
 
 ##sample input and output of fifo
 ![sample_input](Experiment_14/Experiment_14a/fifo_sample_io.PNG)
@@ -63,10 +64,11 @@ Laboratory Program
 ##executed input and output of fifo
 ![executed_io](Experiment_14/Experiment_14a/fifo_executed_io.PNG)
 
-#FIFO program status
+#LRU program status
 
-##program files of LRU
+##program files of lru
 ![program_file](Experiment_14/Experiment_14b/program_lru_5A2.PNG)
+![program_file](Experiment_14/Experiment_14b/lru_program.c)
 
 ##sample input and output of lru
 ![sample_input](Experiment_14/Experiment_14b/lru_sample_io.PNG)
@@ -74,11 +76,12 @@ Laboratory Program
 ##executed input and output of lru
 ![executed_io](Experiment_14/Experiment_14b/lru_executed_io.PNG)
 
-#FIFO program status
+#OPTIMAL PAGE REPLACEMENT program status
 
 ##program files of optimal page replacement
 ![program_file](Experiment_14/Experimnt_14c/program_optimal1_5A2.PNG)
 ![program_file](Experiment_14/Experimnt_14c/program_optimal2_5A2.PNG)
+![program_file](Experiment_14/Experimnt_14c/optimal_program.c)
 
 ##sample input and output of optimal
 ![sample_input](Experiment_14/Experimnt_14c/optimal_sample_io.PNG)
