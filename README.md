@@ -88,3 +88,28 @@ Laboratory Program
 
 ##executed input and output of optimal
 ![executed_io](Experiment_14/Experimnt_14c/optimal_executed_io.PNG)
+
+#DEADLOCK AVOIDANCE program status
+
+##program files of deadlock avoidance
+![program_file](EXPERIMENT_17/DLA_CODE_5A2.PNG)
+![program_file](EXPERIMENT_17/DLA_CODE1_5A2.PNG)
+![program_file](EXPERIMENT_17/DLA_5A2.c)
+
+##sample input and output of deadlock avoidance
+![sample_input](EXPERIMENT_17/DLA_IO_5A2.PNG)
+
+##executed input and output of avoidance
+![executed_io](EXPERIMENT_17/DLA_EO_5A2.PNG)
+
+#DEADLOCK PREVENTION program status
+
+##program files of deadlock prevention
+![program_file](EXPERIMENT_17/DLP_CODE_5A2.PNG)
+![program_file](EXPERIMENT_17/DLP_5A2.c)
+
+##sample input and output of deadlock prevention
+![sample_input](EXPERIMENT_17/DLP_IO_5A2.PNG)
+
+##executed input and output of prevention
+![executed_io](EXPERIMENT_17/DLP_EO_5A2.PNG)
